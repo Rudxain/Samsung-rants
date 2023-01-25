@@ -41,7 +41,7 @@ S forces users to use a Samsung Account, even for *looking at the list of app up
 So if you want to control auto-updates for individual apps, you gotta login to a useless S Account! Amazing, isn't it?! /s
 That is just the tip of the iceberg, S forces you to use that account for lots of other unnecessary things!
 
-### Duped apps
+### Bloatware
 S has an obsession with making and pre-installing apps that Google already made.
 As a minimalist person, this is absolutely disgusting:
 
