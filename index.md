@@ -1,4 +1,4 @@
-# Samsung rant
+# About
 
 > NSFW!
 
