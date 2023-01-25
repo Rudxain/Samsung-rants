@@ -71,6 +71,8 @@ The battery optimization features are nice and all, *but why Memory?*
 It doesn't "close background apps", it **deletes RAM-cache**, that's the *opposite* of device optimization.
 Even worse, they added "Auto-Optimize", and it's **enabled by default,** meaning that every single day, your device **discards ALL of its RAM-cache**, only to generate it again.
 
+Wait, it actually stops "background" apps!, but only those in the "recent apps" screen, which are the most frequently used apps!, therefore **reducing startup perfomance for apps that the user ACTUALLY USES**
+
 This has been an issue **for years**, before One UI even existed.
 
 ### Persistent swap memory
