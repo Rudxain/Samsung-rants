@@ -65,6 +65,9 @@ They literally updated my device from Android 7 to 8, and decided to hide a well
 
 Thank you, Samsung, for being so annoying!
 
+### RIP SUIT
+[No System UI Tuner?!](https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F002%2F297%2F368%2F17f.jpg)
+
 ### Memory "optimization"
 Something I find pointless, and perhaps harmful, is Device Care app.
 The battery optimization features are nice and all, *but why Memory?*
