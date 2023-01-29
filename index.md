@@ -36,6 +36,17 @@ They haven't improved this, for years
 ### Recent files
 Speaking of logging, "My Files" logs recently used files **even if the list is hidden**, meaning you also have to remember to clear it.
 
+### Persistent clipboard
+
+I installed Gboard, used it for some time, cleared its 📋CB history, uninstalled it, and noticed S Keyboard **still has the old CB entries**.
+
+This is a massive **privacy vulnerability!**
+Imagine you thought you deleted all passwords from a 3rd-party CB, only to get hacked by someone who took your phone and enabled S Keyboard as the default keyboard.
+
+They haven't fixed this for years! The J3 Mission has the exact same problem.
+
+I don't think this is an "Android limitation", the system can easily detect when a different keyboard is being used, and avoid logging on the native CB.
+
 ### Useless account
 S forces users to use a Samsung Account, even for *looking at the list of app updates in Galaxy Store.*
 So if you want to control auto-updates for individual apps, you gotta login to a useless S Account! Amazing, isn't it?! /s
