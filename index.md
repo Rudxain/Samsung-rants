@@ -47,6 +47,26 @@ They haven't fixed this for years! The J3 Mission has the exact same problem.
 
 I don't think this is an "Android limitation", the system can easily detect when a different keyboard is being used, and avoid logging on the native CB.
 
+### Automatic dictionary
+
+S Keyboard automatically adds words to its dictionary, **all the time**, unlike Gboard, which doesn't collect data when using Chrome-incognito (perhaps S Keyboard does something similar with S Internet? IDK).
+
+This means I have to clear **ALL PERSONALIZATION DATA**, everytime I use incognito mode.
+
+Gboard has a dedicated menu to manage the dictionary.
+
+Come on, S, is it really difficult?
+
+### Hardcoded Google dependency
+
+[Another one](https://youtu.be/jEI3N9kIyP4), about the keyboard (3 strikes!!!).
+
+You know that microphone button that converts speech to text? Turns out it _depends on the Google app, not G Speech Services._
+
+Since I uninstalled G, I realized the difference between "Voice Typing" and "Voice Typing [Legacy]", in the input settings. "Legacy" means "Google app".
+
+Now, everytime I want to use voice input, I have to open the notification panel, and select "Google Voice Typing" (provided by Speech Services)
+
 ### Useless account
 S forces users to use a Samsung Account, even for *looking at the list of app updates in Galaxy Store.*
 So if you want to control auto-updates for individual apps, you gotta login to a useless S Account! Amazing, isn't it?! /s
