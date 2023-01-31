@@ -55,7 +55,7 @@ This means I have to clear **ALL PERSONALIZATION DATA**, everytime I use incogni
 
 Gboard has a dedicated menu to manage the dictionary.
 
-Come on, S, is it really difficult?
+Again, unsurprisingly, they haven't improved this for years. Come on, S, is it really difficult?
 
 ### Legacy Google dependency
 
