@@ -6,7 +6,7 @@
 
 I was already bored/tired of using Samsung products (specially phones), but now I'm at my **absolute limit.**
 
-## Background
+## Backstory
 
 All started when I was using my Galaxy J3 Mission, tinkering around, looking at the "Running processes" section of the dev settings.
 Then, I notice that the launcher (Samsung Experience Home) was running **all the time** since the device was turned on (it matched "Up Time").
