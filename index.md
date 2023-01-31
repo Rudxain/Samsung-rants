@@ -57,11 +57,11 @@ Gboard has a dedicated menu to manage the dictionary.
 
 Come on, S, is it really difficult?
 
-### Hardcoded Google dependency
+### Legacy Google dependency
 
 [Another one](https://youtu.be/jEI3N9kIyP4), about the keyboard (3 strikes!!!).
 
-You know that microphone button that converts speech to text? Turns out it _depends on the Google app, not G Speech Services._
+You know that microphone button that converts speech to text? Turns out, it _depends on the Google app, not G Speech Services._
 
 Since I uninstalled G, I realized the difference between "Voice Typing" and "Voice Typing [Legacy]", in the input settings. "Legacy" means "Google app".
 
