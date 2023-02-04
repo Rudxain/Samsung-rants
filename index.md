@@ -98,13 +98,13 @@ They literally updated my device from Android 7 to 8, and decided to hide a well
 
 Thank you, Samsung, for being so annoying!
 
-### Lockscreen banding
+### Lockscreen post-processing
 
-No matter the lightning conditions, no matter the brightness, the lockscreen wallpaper has a severely reduced bit-depth. So much that it causes big banding artifacts.
+Regardless of brightness, the lockscreen has a severely reduced bit-depth. So much that it causes big banding artifacts in wallpapers.
 
-And don't tell me "Oh, that's just OLED being OLED", **no**, I already said it **always happens**.
+The wallpaper is cropped and rotated when the device is rotated, but the home wallpaper stays the same.
 
-IDK if this is an Android 12 thing, but I'm pretty sure it's Samsung's fault. I've never seen an Android have that inconsistency.
+IDK if these are Android things, but I'm pretty sure it's Samsung's fault. I've never seen an Android have that inconsistency.
 
 ### Invalid MMI codes
 
