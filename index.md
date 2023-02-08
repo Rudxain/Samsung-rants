@@ -101,7 +101,7 @@ Thank you, Samsung, for being so annoying!
 ### Lockscreen post-processing
 
 Regardless of brightness, the lockscreen has a severely reduced bit-depth. So much that it causes big banding artifacts in wallpapers.
-[This only happens while fingerprint unlock is active](https://r2.community.samsung.com/t5/Galaxy-A/A51-lockscreen-display-color-issue/m-p/4218019/highlight/true#M203235)
+[This only happens while fingerprint unlock is active](https://r2.community.samsung.com/t5/Galaxy-A/A51-lockscreen-display-color-issue/m-p/4218019/highlight/true#M203235). It seems this is a hardware limitation.
 
 The wallpaper is cropped and rotated when the device is rotated, but the home wallpaper stays the same.
 
