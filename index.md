@@ -94,7 +94,7 @@ but it was no-op, so I had to resort to the AOSP version (which was also hidden 
 
 Everytime I wanted to toggle NL, I had to use an Automate-flow that changed the setting. And if I wanted to configure the color temperature or schedule, I had to use Automate to open the hidden activity.
 
-They literally updated my device from Android 7 to 8, and decided to hide a well-behaved fully-functional feature, just because they were working on a clone that doesn't even work on the lock-screen...
+They literally updated my device from Android 7 to 8, and decided to hide a well-behaved fully-functional feature, just because they were working on a clone that doesn't even work on the lock-screen (while fingerprint scanner is active)...
 
 Thank you, Samsung, for being so annoying!
 
