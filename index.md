@@ -87,6 +87,12 @@ As a minimalist person, this is absolutely disgusting:
 
 Ok Samsung, how about you stop leeching off of Android, and make your own motherfucking operating system? (just like Huawei).
 
+### Can't clear disabled apps
+
+Despite the fact that AOSP and ADB allow you to clear app data after it's been disabled, Galaxy devices don't allow you to do so, for some reason.
+
+You can only clear cache!
+
 ### Blue Light Filter
 
 When I was looking at hidden app activities in my J3 Mission, I noticed S made its own "BLF" independent of AOSP's "Night Light",
