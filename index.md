@@ -126,6 +126,12 @@ The only one that worked so far is the "USB Settings" code: `*#0808#`
 ### RIP SUIT
 [No System UI Tuner?!](https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F002%2F297%2F368%2F17f.jpg)
 
+### Crappy camera
+
+The A31 camera app doesn't allow manual focus distance. You'll be at the mercy of auto-focus and the 3 "focus modes" (macro, portrait, auto) all the time.
+
+The image quality in the A31 is almost the same as the J3 Mission, despite the fact that there's a freaking multi-cam setup.
+
 ### Memory "optimization"
 Something I find pointless, and perhaps harmful, is Device Care app.
 The battery optimization features are nice and all, *but why Memory?*
