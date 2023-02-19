@@ -128,7 +128,7 @@ The only one that worked so far is the "USB Settings" code: `*#0808#`
 
 ### Obnoxious screenshot gesture
 
-The only way to take a screen capture is to make an "Palm swipe" gesture, which is an "Advanced Feature™".
+The only way to take a screen capture is to make a "Palm swipe" gesture, which is an "Advanced Feature™".
 
 Sometimes, it fails to recognize the gesture, causing a UI touch at a random place.
 
