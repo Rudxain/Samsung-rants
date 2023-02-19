@@ -1,6 +1,6 @@
 # About
 
-> NSFW!
+> WARNING: This contains slurs/swear-words
 
 ## Intro
 
@@ -125,6 +125,14 @@ The only one that worked so far is the "USB Settings" code: `*#0808#`
 
 ### RIP SUIT
 [No System UI Tuner?!](https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F002%2F297%2F368%2F17f.jpg)
+
+### Obnoxious screenshot gesture
+
+The only way to take a screen capture is to make an "Palm swipe" gesture, which is an "Advanced Feature™".
+
+Sometimes, it fails to recognize the gesture, causing a UI touch at a random place.
+
+The only other way is to use "Game Booster", but it only shows up when playing a game.
 
 ### Crappy camera
 
