@@ -136,7 +136,7 @@ The only other way is to use "Game Booster", but it only shows up when playing a
 
 ### Crappy camera
 
-The A31 camera app doesn't allow manual focus distance. You'll be at the mercy of auto-focus and the 3 "focus modes" (macro, portrait, auto) all the time.
+The A31 camera app doesn't allow manual focus distance, despite the fact that both [Open Camera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera) and [WebCamera](https://riju.github.io/WebCamera/samples/camera) can control it (this means the firmware supports manual-focus). TBF, the native app supports 3 "focus modes": macro, portrait, auto.
 
 The image quality in the A31 is almost the same as the J3 Mission, despite the fact that there's a freaking multi-cam setup.
 
