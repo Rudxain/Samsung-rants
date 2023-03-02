@@ -35,8 +35,12 @@ This annoyance got even worse when they added the "Trash" feature to all their a
 
 They haven't improved this, for years
 
-### Recent files
+### My Files
 Speaking of logging, "My Files" logs recently used files **even if the list is hidden**, meaning you also have to remember to clear it.
+
+It also shows hidden files in the "storage analyzer", despite disabling the "show hidden files" option.
+
+It says "MB" but it actually is "MiB", which is misleading. I noticed this because the AOSP Files really uses MB units.
 
 ### Persistent clipboard
 
