@@ -22,6 +22,8 @@ But I was very happy that I could finally use Android 12, and even happier becau
 I was doing the same monitoring+tinkering process... when suddenly... **the Game Launcher was running** for no reason. I went to the details, and guess what...
 **IT'S THE FUCKING NOTIFICATION LISTENER AGAIN! AND IT'S ALSO HIDDEN FROM THE NOTIFICATION ACCESS LIST!!!**
 
+At least, I can disable the app, but that's still unnecessary (why do I have to completely disable an app just to get rid of 1 listener?)
+
 ## Other stuff I hate
 
 ### SMS history
