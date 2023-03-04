@@ -168,6 +168,10 @@ Speaking of that, there's a "RAM Plus" feature that's set to **4GB by default**.
 The good news is that "One UI 5" will allow users to easily turn it off. I have "One UI 4" so I had to [use ADB to disable it](https://forum.xda-developers.com/t/disable-samsung-ram-plus.4491743).
 To control it easily, I granted /Llamalab/Automate `WRITE_SECURE_SETTINGS` permission. This also allows me to [enable it again](https://reddit.com/r/galaxys10/comments/zj7itl/comment/izw7y8q) (just-in-case)
 
+## etc
+
+This following isn't a rant, I just find it funny that [S Cloud requests a permission that will be permanently denied](https://reddit.com/r/TechNope/comments/10crdie/when_the_system_denies_a_permission_that_it)
+
 ## Conclusion
 
 Needless to say, I fucking hate Samsung, **almost as much as Apple**. I wish I had a phone by any other brand (except Huawei and Xiaomi, those are useless to me)
