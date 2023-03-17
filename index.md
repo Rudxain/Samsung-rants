@@ -73,7 +73,7 @@ Since I uninstalled G, I realized the difference between "Voice Typing" and "Voi
 
 Now, everytime I want to use voice input, I have to open the notification panel, and select "Google Voice Typing" (provided by Speech Services).
 
-For some reason, some days ago, the keyboard now shows the mic button... **are they spying on me?**
+It seems I had to `clear`-data to force the keyboard to use the new API. This is unacceptable UX
 
 ### Useless account
 S forces users to use a Samsung Account, even for *looking at the list of app updates in Galaxy Store.*
