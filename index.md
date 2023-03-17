@@ -110,6 +110,12 @@ They literally updated my device from Android 7 to 8, and decided to hide a well
 
 Thank you, Samsung, for being so annoying!
 
+### Linear brightness
+
+Android 9P introduced a logarithmic brightness slider. I'm using Android 12, and **IT'S STILL LINEAR**. TBF, this may be a hardware limitation, because OLED is usually driven by PWM. **BUT THERE IS NO EXCUSE**, they can literally fix this on the software side!
+
+How come I didn't notice this flaw?! I've been using this phone for months! (brightness 0, that's why. I'm a vampire)
+
 ### Lockscreen post-processing
 
 Regardless of brightness, the lockscreen has a severely reduced bit-depth. So much that it causes big banding artifacts in wallpapers.
