@@ -101,9 +101,11 @@ You can only clear cache!
 
 ### Cache is calculated twice
 
-Speaking of app data, if you go to Settings -> Apps, and clear the cache of any app, you'll notice that "Data" ia decremented. This is technically true, because cache is kinda part of data. This wouldn't be a bug, if it wasn't for the fact that **"Total" is the sum of code, data, and cache.** This means "Total" is adding "Cache" twice!
+Speaking of app data, if you go to Settings -> Apps, and clear the cache of any app, you'll notice that "Data" is decremented. This is technically true, because cache is kinda part of data. This wouldn't be a bug, if it wasn't for the fact that **"Total" is the sum of code, data, and cache.** This means "Total" is adding "Cache" twice!
 
 I had to make an Automate-flow to check the ACTUAL size of installed apps, because of this bug.
+
+**This bug still exists since Android 5**
 
 ### Blue Light Filter
 
