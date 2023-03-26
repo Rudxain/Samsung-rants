@@ -90,7 +90,7 @@ As a minimalist person, this is absolutely disgusting:
 - "Don't use Google Autofill! Use S Pass"
 - "Chrome is so 2016, use S Internet"
 - "Gmail sucks, use S Mail"
-- BTW, look at these not-sponsored-at-all suite of Facebook, Intel, McAfee, Clean Master, and Grammarly software!
+- "BTW, look at these not-sponsored-at-all suite of Facebook, Intel, McAfee, Clean Master, and Grammarly software!"
 
 Ok Samsung, how about you stop leeching off of Android, and make your own motherfucking operating system? (just like Huawei).
 
