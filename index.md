@@ -93,6 +93,7 @@ As a minimalist person, this is absolutely disgusting:
 - "BTW, look at these not-sponsored-at-all suite of Facebook, Intel, McAfee, Clean Master, and Grammarly software!"
 
 Ok Samsung, how about you stop leeching off of Android, and make your own motherfucking operating system? (just like Huawei).
+Oh wait, [they did](https://arstechnica.com/gadgets/2015/02/samsung-z1-review-the-first-tizen-smartphone-still-feels-like-plan-b)
 
 ### Can't clear disabled apps
 
