@@ -156,6 +156,14 @@ The only one that worked so far is the "USB Settings" code: `*#0808#`
 ### RIP SUIT
 [No System UI Tuner?!](https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F002%2F297%2F368%2F17f.jpg)
 
+### Cannot share via WiFi Direct
+
+Since One UI 3.1 released, the option to send data via Wi-Fi Direct has been hidden (perhaps even completely removed).
+
+S recommends Nearby Share as an alternative.
+
+Now I'm forced to use the slow Bluetooth, when Nearby Share decides the devices aren't compatible with WFD
+
 ### Obnoxious screenshot gesture
 
 The only way to take a screen capture is to make a "Palm swipe" gesture, which is an "Advanced Feature™".
