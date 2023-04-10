@@ -126,13 +126,13 @@ Android 9P introduced a logarithmic brightness slider. I'm using Android 12, and
 
 How come I didn't notice this flaw?! I've been using this phone for months! (brightness 0, that's why. I'm a vampire)
 
-### Sunlight brightness
+### Sunlight mode
 
-The system will force the screen **brightness to MAXIMUM VALUE**, if it thinks there's "too much ambient light". The lux threshold is hardcoded, it's the same regardless of training data.
+[Adaptive brightness will force the screen **brightness to MAXIMUM VALUE**](https://forum.xda-developers.com/t/adaptive-brightness-disable-maximized-sunlight-mode.4493467), if it thinks there's "too much ambient light". The lux threshold is hardcoded, it's the same regardless of training data.
 
 This forces me to disable AB temporarily, just to lower the brightness.
 
-Why implement adaptive brightness if the system will override it anyways?
+This is not "adaptive" at all.
 
 ### Lockscreen post-processing
 
