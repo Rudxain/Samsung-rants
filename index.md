@@ -164,13 +164,14 @@ S recommends Google's Nearby Share as an alternative.
 
 Now I'm forced to use the slow Bluetooth, when Nearby Share decides the devices aren't compatible with WFD. Another option is LAN sharing, but this requires a centralized router to act as bridge
 
-### Obnoxious screenshot gesture
+### Bad screenshots
 
-The only way to take a screen capture is to make a "Palm swipe" gesture, which is an "Advanced Feature™".
+There are 4 ways to capture the screen:
 
-Sometimes, it fails to recognize the gesture, causing a UI touch at a random place.
-
-The only other way is to use "Game Booster", but it only shows up when playing a game.
+- Tasks Edge: Allocates more RAM, and constantly uses more screen real-state. Fortunately, it doesn't show up in the final screenshot.
+- Smart Select Edge: JPEG compression. And it's hard to take a full-screen capture.
+- Palm Swipe gesture, "Advanced Feature™": Sometimes, it fails to recognize the gesture, causing a UI touch at a random place.
+- Game Booster: It only shows up when playing a game.
 
 ### Crappy camera
 
