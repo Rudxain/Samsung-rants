@@ -160,9 +160,9 @@ The only one that worked so far is the "USB Settings" code: `*#0808#`
 
 Since One UI 3.1 released, the option to send data via Wi-Fi Direct has been hidden (perhaps even completely removed).
 
-S recommends Nearby Share as an alternative.
+S recommends Google's Nearby Share as an alternative.
 
-Now I'm forced to use the slow Bluetooth, when Nearby Share decides the devices aren't compatible with WFD
+Now I'm forced to use the slow Bluetooth, when Nearby Share decides the devices aren't compatible with WFD. Another option is LAN sharing, but this requires a centralized router to act as bridge
 
 ### Obnoxious screenshot gesture
 
