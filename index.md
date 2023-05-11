@@ -28,12 +28,12 @@ At least, I can disable the app, but that's still unnecessary (why do I have to 
 
 ### SMS history
 For some reason, Samsung thought it's a good idea to log SMSs in the Phone app, **even if "Show messages" is disabled.**
-So if you want to save storage, or increase your privacy, you're forced to enable "Show messages" to delete them.
+So if you want to save storage, or increase your privacy, you're forced to enable "Show messages" to delete them (or block the SMS permission of the Phone app)
 This is even worse when the vast majority of messages are useless carrier ads and reminders, now you're forced to delete those messages **ON BOTH APPS**.
 
 This annoyance got even worse when they added the "Trash" feature to all their apps. Now you gotta delete it thrice!!! (unless you disable the Trash)
 
-They haven't improved this, for years
+They haven't improved this, for years.
 
 ### My Files
 Speaking of logging, "My Files" logs recently used files **even if the list is hidden**, meaning you also have to remember to clear it.
