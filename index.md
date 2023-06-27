@@ -166,7 +166,7 @@ S recommends Google's Nearby Share as an alternative.
 
 Now I'm forced to use the slow Bluetooth, when Nearby Share decides the devices aren't compatible with WFD. Another option is LAN sharing, but this requires a centralized router to act as bridge
 
-### Bad screenshots
+### Unintuitive screen capture
 
 There are 4 ways to capture the screen:
 
@@ -174,6 +174,10 @@ There are 4 ways to capture the screen:
 - Smart Select Edge: JPEG compression. And it's hard to take a full-screen capture.
 - Palm Swipe gesture, "Advanced Feature™": Sometimes, it fails to recognize the gesture, causing a UI touch at a random place.
 - Game Booster: It only shows up when playing a game.
+
+Also, even on Android 12, there's no way to record a video of the screen, other than Game Booster.
+
+I'm forced to install apps, or use `adb shell screenrecord`
 
 ### Crappy camera
 
