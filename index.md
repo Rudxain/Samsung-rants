@@ -69,7 +69,7 @@ Again, unsurprisingly, they haven't improved this for years. Come on, S, is it r
 
 You know that microphone button that converts speech to text? Turns out, it _depends on the Google app, not G Speech Services._
 
-Since I uninstalled G, I realized the difference between "Voice Typing" and "Voice Typing [Legacy]", in the input settings. "Legacy" means "Google app".
+Since I uninstalled G, I realized the difference between "Voice Typing" and "Voice Typing \[Legacy]", in the input settings. "Legacy" means "Google app".
 
 Now, everytime I want to use voice input, I have to open the notification panel, and select "Google Voice Typing" (provided by Speech Services).
 
@@ -107,7 +107,7 @@ Speaking of app data, if you go to Settings -> Apps, and clear the cache of any 
 
 I had to make an Automate-flow to check the ACTUAL size of installed apps, because of this bug.
 
-**This bug still exists since Android 5**
+**This bug still exists since Android 5** (Galaxy S4)
 
 ### Blue Light Filter
 
@@ -151,7 +151,9 @@ You know, those numbers and symbols you have to dial in the Phone app to open hi
 
 None of the AOSP codes, nor OEM-specific (Samsung), work. It doesn't matter if the device is old or new (from Galaxy J3 to A31)
 
-The only one that worked so far is the "USB Settings" code: `*#0808#`
+The only ones that worked so far are:
+- "USB Settings": `*#0808#`
+- `HwModuleTest`: \*#0\*#
 
 ### RIP SUIT
 [No System UI Tuner?!](https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F002%2F297%2F368%2F17f.jpg)
