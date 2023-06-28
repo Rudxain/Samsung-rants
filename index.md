@@ -95,6 +95,10 @@ As a minimalist person, this is absolutely disgusting:
 Ok Samsung, how about you stop leeching off of Android, and make your own motherfucking operating system? (just like Huawei).
 Oh wait, [they did](https://arstechnica.com/gadgets/2015/02/samsung-z1-review-the-first-tizen-smartphone-still-feels-like-plan-b)
 
+### Deep-Sleeping apps are "disabled"
+
+https://reddit.com/r/AndroidQuestions/comments/149lfg3/why_batteryrestricted_apps_are_considered_disabled
+
 ### Can't clear disabled apps
 
 Despite the fact that AOSP and ADB allow you to clear app data after it's been disabled, Galaxy devices don't allow you to do so, for some reason.
@@ -186,6 +190,12 @@ The A31 Camera app doesn't allow manual focus distance, not even in "pro" mode, 
 Minimum ISO (in "pro" mode) is higher than actual min ISO. I noticed this when taking pictures of bright stuff, then looking at the JPEG EXIF metadata. S6, J3 Mission, and J2 Prime, all have similar artificial limits.
 
 The image quality in the A31 is almost the same as the J3 Mission, despite the fact that there's a freaking multi-cam setup.
+
+### QR tile depends on Weather Daemon
+
+https://github.com/0x192/universal-android-debloater/issues/598
+
+https://github.com/0x192/universal-android-debloater/issues/785
 
 ### Memory "optimization"
 Something I find pointless, and perhaps harmful, is Device Care app.
