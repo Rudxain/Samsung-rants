@@ -95,6 +95,10 @@ As a minimalist person, this is absolutely disgusting:
 Ok Samsung, how about you stop leeching off of Android, and make your own motherfucking operating system? (just like Huawei).
 Oh wait, [they did](https://arstechnica.com/gadgets/2015/02/samsung-z1-review-the-first-tizen-smartphone-still-feels-like-plan-b)
 
+### GOS
+
+I thought "Game Optimizing Service" was mostly useless, until I learned [it's actually counterproductive.](https://pcgamer.com/samsungs-game-optimization-service-might-be-throttling-the-performance-of-over-10000-apps)
+
 ### Deep-Sleeping apps are "disabled"
 
 https://reddit.com/r/AndroidQuestions/comments/149lfg3/why_batteryrestricted_apps_are_considered_disabled
