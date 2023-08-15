@@ -76,10 +76,10 @@ Now, everytime I want to use voice input, I have to open the notification panel,
 It seems I had to `clear`-data to force the keyboard to use the new API. This is unacceptable UX
 
 
-# Split-Screen depends on Apps-Edge
+### Split-Screen depends on Apps-Edge
 https://github.com/0x192/universal-android-debloater/issues/124
 
-# Useless account
+### Useless account
 S forces users to use a Samsung Account, even for *looking at the list of app updates in Galaxy Store.*
 So if you want to control auto-updates for individual apps, you gotta login to a useless S Account! Amazing, isn't it?! /s
 That is just the tip of the iceberg, S forces you to use that account for lots of other unnecessary things!
