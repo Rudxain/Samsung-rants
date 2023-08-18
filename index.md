@@ -157,13 +157,13 @@ The wallpaper is cropped and rotated when the device is rotated, but the home wa
 
 IDK if these are Android things, but I'm pretty sure it's Samsung's fault. I've never seen an Android have that inconsistency.
 
-### Lock timeout applies to side-key
+### Bad Lock
 
 What's the point of "Lock instantly with Side-Key" if "Auto lock when screen turns off" also applies to the side key itself?! It should only lock after screen-timeout expires.
 
-### No way to lock manually
+What's the point of turning off the screen via double-tap if it's getting locked anyways??!!!
 
-Almost all S devices have this UX problem: If you want to lock the device, you must wait for a timeout, or turn-off the screen. If you only want to turn-off the screen, **you must wait for the lock-timeout**.
+Almost all S devices have this UX problem: If you want to lock the device, you must wait for a timeout, or turn-off the screen. If you only want to turn-off the screen, **you must wait for a timeout**.
 
 The only alternative is "Lockdown mode", which is equivalent to signing-out of the OS-user-account, which in turn disables all app notifications and WhatsApp calls.
 
