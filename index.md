@@ -109,6 +109,11 @@ It can't be disabled on SM-A315G, **not even with ADB**
 
 https://reddit.com/r/AndroidQuestions/comments/149lfg3/why_batteryrestricted_apps_are_considered_disabled
 
+# No-sleep-app = never-sleep
+Removing an app from the "sleeping apps" list automatically adds it to "never sleeping".
+
+This is inconvenient, to say the least.
+
 ### Can't clear disabled apps
 
 Despite the fact that AOSP and ADB allow you to clear app data after it's been disabled, Galaxy devices don't allow you to do so, for some reason.
