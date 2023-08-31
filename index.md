@@ -57,11 +57,11 @@ I don't think this is an "Android limitation", the system can easily detect when
 
 S Keyboard automatically adds words to its dictionary, **all the time**, unlike Gboard, which doesn't collect data when using Chrome-incognito (perhaps S Keyboard does something similar with S Internet? IDK).
 
-This means I have to clear **ALL PERSONALIZATION DATA**, everytime I use incognito mode.
+This means you have to clear **ALL PERSONALIZATION DATA**, everytime you use Incognito.
 
 Gboard has a dedicated menu to manage the dictionary.
 
-Again, unsurprisingly, they haven't improved this for years. Come on, S, is it really difficult?
+Again, unsurprisingly, they haven't improved this for years. Come on, S, is it really that hard?
 
 ### Legacy Google dependency
 
@@ -75,13 +75,13 @@ Now, everytime I want to use voice input, I have to open the notification panel,
 
 It seems I had to `clear`-data to force the keyboard to use the new API. This is unacceptable UX
 
-
 ### Split-Screen depends on Apps-Edge
-https://github.com/0x192/universal-android-debloater/issues/124
+[See this UAD issue](https://github.com/0x192/universal-android-debloater/issues/124)
 
 ### Useless account
 S forces users to use a Samsung Account, even for *looking at the list of app updates in Galaxy Store.*
 So if you want to control auto-updates for individual apps, you gotta login to a useless S Account! Amazing, isn't it?! /s
+
 That is just the tip of the iceberg, S forces you to use that account for lots of other unnecessary things!
 
 ### Bloatware
@@ -101,13 +101,13 @@ Oh wait, [they did](https://arstechnica.com/gadgets/2015/02/samsung-z1-review-th
 
 ### GOS
 
-I thought "Game Optimizing Service" was mostly useless, until I learned [it's actually counterproductive.](https://pcgamer.com/samsungs-game-optimization-service-might-be-throttling-the-performance-of-over-10000-apps).
+I thought "Game Optimizing Service" was mostly useless, until I learned [it's actually counterproductive](https://pcgamer.com/samsungs-game-optimization-service-might-be-throttling-the-performance-of-over-10000-apps).
 
 It can't be disabled on SM-A315G, **not even with ADB**
 
 ### Deep-Sleeping apps are "disabled"
 
-https://reddit.com/r/AndroidQuestions/comments/149lfg3/why_batteryrestricted_apps_are_considered_disabled
+[See this Reddit thread](https://reddit.com/r/AndroidQuestions/comments/149lfg3/why_batteryrestricted_apps_are_considered_disabled)
 
 # No-sleep-app = never-sleep
 Removing an app from the "sleeping apps" list automatically adds it to "never sleeping".
@@ -173,6 +173,9 @@ Almost all S devices have this UX problem: If you want to lock the device, you m
 The only alternative is "Lockdown mode", which is equivalent to signing-out of the OS-user-account, which in turn disables all app notifications and WhatsApp calls.
 
 I had to make a /Llamalab/Automate flow to manually lock the device. A **basic** piece of functionality.
+
+### DTMF stuttering
+[See this G Groups thread](https://groups.google.com/g/automate-user/c/22iukdGJm10/m/j-6VKTlAAAAJ)
 
 ### Invalid MMI codes
 
